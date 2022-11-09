@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1667951126018" clover="3.2.0">
+  <project timestamp="1667951126018" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="25" coveredconditionals="24" methods="3" coveredmethods="3" elements="48" coveredelements="47" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="calc.ts" path="C:\Users\JoaoPedro\OneDrive\Área de Trabalho\TDD\calculate_salary\calculate_salary_discount\calc.ts">
+      <metrics statements="20" coveredstatements="20" conditionals="25" coveredconditionals="24" methods="3" coveredmethods="3"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="16" count="8" type="stmt"/>
+      <line num="19" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="30" count="6" type="stmt"/>
+      <line num="32" count="6" type="stmt"/>
+      <line num="36" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="43" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="44" count="2" type="stmt"/>
+      <line num="50" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="57" count="5" type="stmt"/>
+      <line num="61" count="5" type="stmt"/>
+    </file>
+  </project>
+</coverage>

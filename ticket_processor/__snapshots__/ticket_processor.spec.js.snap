@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ticket processor should that the invoice is added 1`] = `
+[
+  {
+    "consumerName": "Jhon Doe",
+    "emittedDate": "20/10/2022",
+    "id": "123-XPTO",
+    "totalPrice": 200,
+  },
+]
+`;
